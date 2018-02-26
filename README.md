@@ -1,4 +1,4 @@
-# Bash_projects
+# Bash_scripts
 
 This repository is a collection of various scripts I have written in Bash for school purposes.
 
@@ -8,6 +8,6 @@ This script reads lines of input and for every line starting with "FILE 'local_o
 
 ## PDF files locator
 
-Use this script to find links to PDF files in HTML file locally or remotely. Use -h for more info
+Use this script to find links to PDF files in HTML file locally or remotely. Use -h for more info.
 
 
